@@ -2,4 +2,4 @@
 Built with HTML5, Bootstrap, and CSS. Hosted on Netlify.<br>
 [caiteesmith.com](caiteesmith.com)
 
-![caiteesmith netlify app_ (2)](https://user-images.githubusercontent.com/7319667/214426947-b0144666-fcaf-41c1-996f-d7b076f5dc8c.png)
+![caiteesmith](https://user-images.githubusercontent.com/7319667/223213448-bc4d20c2-de08-49b0-b26a-0a88387a7bdd.png)
